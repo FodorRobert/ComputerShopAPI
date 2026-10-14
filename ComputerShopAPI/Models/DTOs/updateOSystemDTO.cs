@@ -1,4 +1,4 @@
-﻿namespace ComputerShopAPI.Models
+﻿namespace ComputerShopAPI.Models.DTOs
 {
     public class UpdateOSystemDTO
     {

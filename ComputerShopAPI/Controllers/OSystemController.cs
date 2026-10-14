@@ -1,4 +1,5 @@
 ﻿using ComputerShopAPI.Models;
+using ComputerShopAPI.Models.DTOs;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
